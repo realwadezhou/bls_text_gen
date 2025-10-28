@@ -14,11 +14,11 @@ For every occupation, the BLS provides dry descriptions of every job. We will at
 
 - **`bls_occupations_input.csv`**: Input data containing 877 BLS occupation titles and descriptions.
 
-- **`bls_with_descriptions.csv`**: Final output with all generated descriptions (gitignored).
+- **`bls_with_descriptions.csv`**: Final output with all 877 AI-generated job descriptions.
 
-- **`bls_with_descriptions.partial.csv`**: Incremental backup saved after each batch (gitignored).
+- **`bls_with_descriptions.partial.csv`**: Incremental backup saved after each batch.
 
-- **`model_comparison.csv`**: Comparison results from model testing scripts (gitignored).
+- **`model_comparison.csv`**: Comparison results from model testing across 9 different LLMs.
 
 ## Setup
 
