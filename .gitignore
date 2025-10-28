@@ -12,12 +12,9 @@ venv/
 env/
 ENV/
 
-# Output files
-bls_with_descriptions.csv
-*.partial.csv
+# Output files (JSON only - keep CSVs for showcase)
 model_temp_test.json
 two_models_test.json
-model_comparison.csv
 
 # Generated documentation
 README.html
