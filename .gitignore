@@ -1,0 +1,35 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Output files
+bls_with_descriptions.csv
+*.partial.csv
+model_temp_test.json
+two_models_test.json
+model_comparison.csv
+
+# Generated documentation
+README.html
+README_files/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
